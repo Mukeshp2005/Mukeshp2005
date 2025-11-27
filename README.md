@@ -77,26 +77,6 @@ I enjoy experimenting with code, exploring new tech, and building creative solut
 
 ---
 
-### 🏆 Achievements & Certifications
-
-* 📰 *Introduction to Flutter* — Simplilearn (2024)
-* 🏅 *Lean Six Sigma Yellow Belt* — Vision Excellence (2024)
-* 📄 *Fundamentals of Language Translation* — Microsoft (2025)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mukeshp1333&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukeshp1333&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=mukeshp1333&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 
 
